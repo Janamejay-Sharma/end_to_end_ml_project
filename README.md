@@ -1,0 +1,1 @@
+This is my copy of [handson-ml2/02_end_to_end_machine_learning_project.ipynb](https://github.com/ageron/handson-ml2/blob/master/02_end_to_end_machine_learning_project.ipynb) with added explanations for the Python code blocks, and some code corrections.
